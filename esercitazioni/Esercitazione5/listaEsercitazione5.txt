@@ -1,7 +1,0 @@
-conteggiovocali
-spaziacapo
-moltiplicacaratteri
-scambia_caratteri
-rimuoviDoppie
-rimuoviripetizioni
-formatta_hhssmm
